@@ -1,4 +1,6 @@
-docx
-pypdf
 streamlit
-google-generativeai
+google.generativeai
+pypdf
+opencv-python-headless
+python-docx
+pillow
